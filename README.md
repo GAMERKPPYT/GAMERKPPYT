@@ -44,7 +44,6 @@
 - 🔭 Construindo aplicações full stack escaláveis
 - 🌱 Estudando sistemas distribuídos e arquitetura limpa
 - 👯 Aberto a colaborar em projetos open source
-- ⚡ Fun fact: debugo em produção e não sinto nada 😎
 
 ---
 
