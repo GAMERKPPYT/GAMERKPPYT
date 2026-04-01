@@ -39,6 +39,17 @@
 
 ---
 
+
+## 🌍 Idiomas
+
+| Idioma | Nível |
+|--------|-------|
+| 🇧🇷 Português | Nativo / Fluente |
+| 🇺🇸 Inglês | Intermediário |
+| 🇪🇸 Espanhol | Básico → Intermediário |
+
+---
+
 ## 🔭 O que eu tô fazendo
 
 - 🔭 Construindo aplicações full stack escaláveis
